@@ -1,0 +1,10 @@
+J:\Users\rex\Documents\Visual Studio 2008\Projects\RexTests\RexTests\bin\x86\Debug\RexTests.exe
+J:\Users\rex\Documents\Visual Studio 2008\Projects\RexTests\RexTests\bin\x86\Debug\RexTests.pdb
+J:\Users\rex\Documents\Visual Studio 2008\Projects\RexTests\RexTests\bin\x86\Debug\RexTestFor.dll
+J:\Users\rex\Documents\Visual Studio 2008\Projects\RexTests\RexTests\bin\x86\Debug\RexTestFor.pdb
+J:\Users\rex\Documents\Visual Studio 2008\Projects\RexTests\RexTests\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\Users\rex\Documents\Visual Studio 2008\Projects\RexTests\RexTests\obj\x86\Debug\RexTests.Form1.resources
+J:\Users\rex\Documents\Visual Studio 2008\Projects\RexTests\RexTests\obj\x86\Debug\RexTests.Properties.Resources.resources
+J:\Users\rex\Documents\Visual Studio 2008\Projects\RexTests\RexTests\obj\x86\Debug\RexTests.csproj.GenerateResource.Cache
+J:\Users\rex\Documents\Visual Studio 2008\Projects\RexTests\RexTests\obj\x86\Debug\RexTests.exe
+J:\Users\rex\Documents\Visual Studio 2008\Projects\RexTests\RexTests\obj\x86\Debug\RexTests.pdb
