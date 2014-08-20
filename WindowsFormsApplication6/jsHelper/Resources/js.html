@@ -1,0 +1,50 @@
+﻿<!doctype html>
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html;charset=utf-8">
+<script type="text/jscript">
+@@@@
+
+function JS2VBArray( objJSArray )
+{
+    var dictionary = new ActiveXObject( "Scripting.Dictionary" );
+    for ( var i = 0; i < objJSArray.length; i++ )
+    {
+        dictionary.add( i, objJSArray[ i ] );
+    }
+
+    return dictionary.Items();
+}
+
+function GoToByUrl(urlString)
+{
+    window.external.SetCurrentMethod("GoToByUrl",JS2VBArray([urlString]));
+}
+
+function SetValueById(id,value)
+{
+    window.external.SetCurrentMethod("SetValueById",JS2VBArray([id,value]));
+}
+
+function SetValueByName(name,number,value)
+{
+    window.external.SetCurrentMethod("SetValueByName",JS2VBArray([name,number,value]));
+}
+
+function ClickByIdAndUpath(id,upath)
+{
+    window.external.SetCurrentMethod("ClickByIdAndUpath",JS2VBArray([id,upath]));
+}
+
+function ClickById(id)
+{
+    window.external.SetCurrentMethod("ClickById",JS2VBArray([id]));
+}
+
+
+
+</script>
+</head>
+<body onload="start();">
+</body>
+</html>

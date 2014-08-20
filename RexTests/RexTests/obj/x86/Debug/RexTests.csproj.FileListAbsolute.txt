@@ -8,3 +8,5 @@ J:\Users\rex\Documents\Visual Studio 2008\Projects\RexTests\RexTests\obj\x86\Deb
 J:\Users\rex\Documents\Visual Studio 2008\Projects\RexTests\RexTests\obj\x86\Debug\RexTests.csproj.GenerateResource.Cache
 J:\Users\rex\Documents\Visual Studio 2008\Projects\RexTests\RexTests\obj\x86\Debug\RexTests.exe
 J:\Users\rex\Documents\Visual Studio 2008\Projects\RexTests\RexTests\obj\x86\Debug\RexTests.pdb
+D:\githua\Engine\RexTests\RexTests\obj\x86\Debug\RexTests.exe
+D:\githua\Engine\RexTests\RexTests\obj\x86\Debug\RexTests.pdb

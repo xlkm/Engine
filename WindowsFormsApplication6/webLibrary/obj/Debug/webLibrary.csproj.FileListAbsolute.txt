@@ -1,0 +1,5 @@
+D:\Documents\Visual Studio 2008\Projects\WindowsFormsApplication6\webLibrary\bin\Debug\webLibrary.dll
+D:\Documents\Visual Studio 2008\Projects\WindowsFormsApplication6\webLibrary\bin\Debug\webLibrary.pdb
+D:\Documents\Visual Studio 2008\Projects\WindowsFormsApplication6\webLibrary\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2008\Projects\WindowsFormsApplication6\webLibrary\obj\Debug\webLibrary.dll
+D:\Documents\Visual Studio 2008\Projects\WindowsFormsApplication6\webLibrary\obj\Debug\webLibrary.pdb
