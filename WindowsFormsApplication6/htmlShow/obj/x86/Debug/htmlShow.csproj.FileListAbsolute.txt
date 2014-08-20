@@ -24,3 +24,16 @@ D:\githua\Engine\WindowsFormsApplication6\htmlShow\obj\x86\Debug\ResolveAssembly
 D:\githua\Engine\WindowsFormsApplication6\htmlShow\obj\x86\Debug\htmlShow.Form1.resources
 D:\githua\Engine\WindowsFormsApplication6\htmlShow\obj\x86\Debug\htmlShow.Properties.Resources.resources
 D:\githua\Engine\WindowsFormsApplication6\htmlShow\obj\x86\Debug\htmlShow.csproj.GenerateResource.Cache
+J:\GitHub\Engine\WindowsFormsApplication6\htmlShow\obj\x86\Debug\htmlShow.exe
+J:\GitHub\Engine\WindowsFormsApplication6\htmlShow\obj\x86\Debug\htmlShow.pdb
+J:\GitHub\Engine\WindowsFormsApplication6\htmlShow\bin\x86\Debug\htmlShow.exe
+J:\GitHub\Engine\WindowsFormsApplication6\htmlShow\bin\x86\Debug\htmlShow.pdb
+J:\GitHub\Engine\WindowsFormsApplication6\htmlShow\bin\x86\Debug\webLibrary.dll
+J:\GitHub\Engine\WindowsFormsApplication6\htmlShow\bin\x86\Debug\Interop.SHDocVw.dll
+J:\GitHub\Engine\WindowsFormsApplication6\htmlShow\bin\x86\Debug\jsHelper.dll
+J:\GitHub\Engine\WindowsFormsApplication6\htmlShow\bin\x86\Debug\webLibrary.pdb
+J:\GitHub\Engine\WindowsFormsApplication6\htmlShow\bin\x86\Debug\jsHelper.pdb
+J:\GitHub\Engine\WindowsFormsApplication6\htmlShow\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\GitHub\Engine\WindowsFormsApplication6\htmlShow\obj\x86\Debug\htmlShow.Form1.resources
+J:\GitHub\Engine\WindowsFormsApplication6\htmlShow\obj\x86\Debug\htmlShow.Properties.Resources.resources
+J:\GitHub\Engine\WindowsFormsApplication6\htmlShow\obj\x86\Debug\htmlShow.csproj.GenerateResource.Cache

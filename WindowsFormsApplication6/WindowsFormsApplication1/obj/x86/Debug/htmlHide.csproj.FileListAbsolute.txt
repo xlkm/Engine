@@ -26,3 +26,17 @@ D:\githua\Engine\WindowsFormsApplication6\WindowsFormsApplication1\obj\x86\Debug
 D:\githua\Engine\WindowsFormsApplication6\WindowsFormsApplication1\obj\x86\Debug\htmlHide.csproj.GenerateResource.Cache
 D:\githua\Engine\WindowsFormsApplication6\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
 D:\githua\Engine\WindowsFormsApplication6\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+J:\GitHub\Engine\WindowsFormsApplication6\WindowsFormsApplication1\bin\x86\Debug\WindowsFormsApplication1.exe
+J:\GitHub\Engine\WindowsFormsApplication6\WindowsFormsApplication1\bin\x86\Debug\WindowsFormsApplication1.pdb
+J:\GitHub\Engine\WindowsFormsApplication6\WindowsFormsApplication1\bin\x86\Debug\webLibrary.dll
+J:\GitHub\Engine\WindowsFormsApplication6\WindowsFormsApplication1\bin\x86\Debug\Interop.SHDocVw.dll
+J:\GitHub\Engine\WindowsFormsApplication6\WindowsFormsApplication1\bin\x86\Debug\jsHelper.dll
+J:\GitHub\Engine\WindowsFormsApplication6\WindowsFormsApplication1\bin\x86\Debug\webLibrary.pdb
+J:\GitHub\Engine\WindowsFormsApplication6\WindowsFormsApplication1\bin\x86\Debug\jsHelper.pdb
+J:\GitHub\Engine\WindowsFormsApplication6\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\GitHub\Engine\WindowsFormsApplication6\WindowsFormsApplication1\obj\x86\Debug\htmlHide.csproj.ResolveComReference.cache
+J:\GitHub\Engine\WindowsFormsApplication6\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+J:\GitHub\Engine\WindowsFormsApplication6\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+J:\GitHub\Engine\WindowsFormsApplication6\WindowsFormsApplication1\obj\x86\Debug\htmlHide.csproj.GenerateResource.Cache
+J:\GitHub\Engine\WindowsFormsApplication6\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+J:\GitHub\Engine\WindowsFormsApplication6\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb

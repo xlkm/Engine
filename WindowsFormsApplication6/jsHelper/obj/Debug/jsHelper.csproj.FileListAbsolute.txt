@@ -12,3 +12,10 @@ D:\githua\Engine\WindowsFormsApplication6\jsHelper\obj\Debug\jsHelper.jsForm.res
 D:\githua\Engine\WindowsFormsApplication6\jsHelper\obj\Debug\jsHelper.csproj.GenerateResource.Cache
 D:\githua\Engine\WindowsFormsApplication6\jsHelper\obj\Debug\jsHelper.dll
 D:\githua\Engine\WindowsFormsApplication6\jsHelper\obj\Debug\jsHelper.pdb
+J:\GitHub\Engine\WindowsFormsApplication6\jsHelper\bin\Debug\jsHelper.dll
+J:\GitHub\Engine\WindowsFormsApplication6\jsHelper\bin\Debug\jsHelper.pdb
+J:\GitHub\Engine\WindowsFormsApplication6\jsHelper\obj\Debug\ResolveAssemblyReference.cache
+J:\GitHub\Engine\WindowsFormsApplication6\jsHelper\obj\Debug\jsHelper.jsForm.resources
+J:\GitHub\Engine\WindowsFormsApplication6\jsHelper\obj\Debug\jsHelper.csproj.GenerateResource.Cache
+J:\GitHub\Engine\WindowsFormsApplication6\jsHelper\obj\Debug\jsHelper.dll
+J:\GitHub\Engine\WindowsFormsApplication6\jsHelper\obj\Debug\jsHelper.pdb

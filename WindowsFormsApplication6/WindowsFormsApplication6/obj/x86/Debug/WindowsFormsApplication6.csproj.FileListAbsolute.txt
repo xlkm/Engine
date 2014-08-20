@@ -24,3 +24,16 @@ D:\githua\Engine\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug
 D:\githua\Engine\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.csproj.GenerateResource.Cache
 D:\githua\Engine\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.exe
 D:\githua\Engine\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.pdb
+J:\GitHub\Engine\WindowsFormsApplication6\WindowsFormsApplication6\bin\x86\Debug\WindowsFormsApplication6.exe
+J:\GitHub\Engine\WindowsFormsApplication6\WindowsFormsApplication6\bin\x86\Debug\WindowsFormsApplication6.pdb
+J:\GitHub\Engine\WindowsFormsApplication6\WindowsFormsApplication6\bin\x86\Debug\webLibrary.dll
+J:\GitHub\Engine\WindowsFormsApplication6\WindowsFormsApplication6\bin\x86\Debug\Interop.SHDocVw.dll
+J:\GitHub\Engine\WindowsFormsApplication6\WindowsFormsApplication6\bin\x86\Debug\jsHelper.dll
+J:\GitHub\Engine\WindowsFormsApplication6\WindowsFormsApplication6\bin\x86\Debug\webLibrary.pdb
+J:\GitHub\Engine\WindowsFormsApplication6\WindowsFormsApplication6\bin\x86\Debug\jsHelper.pdb
+J:\GitHub\Engine\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\GitHub\Engine\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.Form1.resources
+J:\GitHub\Engine\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.Properties.Resources.resources
+J:\GitHub\Engine\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.csproj.GenerateResource.Cache
+J:\GitHub\Engine\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.exe
+J:\GitHub\Engine\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.pdb

@@ -751,6 +751,7 @@ namespace webLibrary
         public static mshtml.IHTMLElement getElementFromeUpathNull(string uPath, mshtml.IHTMLElement fromElement)
         {
             mshtml.IHTMLElement tempElementU = fromElement;
+            uPath = uPath.ToUpper();
             string[] pathss = uPath.Split('-');
 
             foreach (string p in pathss)

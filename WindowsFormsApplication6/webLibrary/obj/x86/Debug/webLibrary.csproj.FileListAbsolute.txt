@@ -18,3 +18,13 @@ D:\githua\Engine\WindowsFormsApplication6\webLibrary\obj\x86\Debug\Interop.SHDoc
 D:\githua\Engine\WindowsFormsApplication6\webLibrary\obj\x86\Debug\webLibrary.csproj.ResolveComReference.cache
 D:\githua\Engine\WindowsFormsApplication6\webLibrary\obj\x86\Debug\webLibrary.dll
 D:\githua\Engine\WindowsFormsApplication6\webLibrary\obj\x86\Debug\webLibrary.pdb
+J:\GitHub\Engine\WindowsFormsApplication6\webLibrary\bin\x86\Debug\webLibrary.dll
+J:\GitHub\Engine\WindowsFormsApplication6\webLibrary\bin\x86\Debug\webLibrary.pdb
+J:\GitHub\Engine\WindowsFormsApplication6\webLibrary\bin\x86\Debug\jsHelper.dll
+J:\GitHub\Engine\WindowsFormsApplication6\webLibrary\bin\x86\Debug\jsHelper.pdb
+J:\GitHub\Engine\WindowsFormsApplication6\webLibrary\bin\x86\Debug\Interop.SHDocVw.dll
+J:\GitHub\Engine\WindowsFormsApplication6\webLibrary\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\GitHub\Engine\WindowsFormsApplication6\webLibrary\obj\x86\Debug\Interop.SHDocVw.dll
+J:\GitHub\Engine\WindowsFormsApplication6\webLibrary\obj\x86\Debug\webLibrary.csproj.ResolveComReference.cache
+J:\GitHub\Engine\WindowsFormsApplication6\webLibrary\obj\x86\Debug\webLibrary.dll
+J:\GitHub\Engine\WindowsFormsApplication6\webLibrary\obj\x86\Debug\webLibrary.pdb

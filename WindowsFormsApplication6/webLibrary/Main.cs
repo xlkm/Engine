@@ -29,7 +29,8 @@ namespace webLibrary
             webBrowser.DocumentCompleted -= new System.Windows.Forms.WebBrowserDocumentCompletedEventHandler(s_DocumentCompleted);
             webBrowser.DocumentCompleted += new System.Windows.Forms.WebBrowserDocumentCompletedEventHandler(s_DocumentCompleted);
 
-
+            webBrowser.FileDownload -= new EventHandler(webBrowser_FileDownload);
+            webBrowser.FileDownload += new EventHandler(webBrowser_FileDownload);
 
             jsHelper.Core.jsThread = new System.Threading.Thread(new System.Threading.ThreadStart(jsHelper.jsHtml.init));
             
@@ -43,6 +44,11 @@ namespace webLibrary
             jsTimer.Interval = 100;
             jsTimer.Tick += new EventHandler(jsTimer_Tick);
             jsTimer.Start();
+        }
+
+        static void webBrowser_FileDownload(object sender, EventArgs e)
+        {
+            throw new NotImplementedException();
         }
 
         static void jsTimer_Tick(object sender, EventArgs e)

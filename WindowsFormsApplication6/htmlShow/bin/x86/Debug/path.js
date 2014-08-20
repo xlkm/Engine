@@ -8,6 +8,10 @@ var userName= "万礼聚诚";
 var userName2 = "wljc457";
 var password = "abc123";
 var emailId = "MainMenuNew1_hlInBox";
+var selectAllId = "radSelactALL";
+var exprotId = "inputbtnExport";
+var downloadUid = "exportDialog";
+var downloadUpath = "u-2-0-0";
 
 function start()
 {	
@@ -17,7 +21,10 @@ function start()
 	SetValueById(passwordID,password);
 	ClickById(clickId);
 	ClickById(emailId);
-	ClickById();
+	ClickById(selectAllId);
+	ClickById(exprotId);
+	ClickByIdAndUpath(downloadUid,downloadUpath);
+	//ClickById();
 }
 
 
