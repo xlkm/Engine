@@ -1,0 +1,44 @@
+
+http://blog.sina.com.cn/s/blog_7a44d6090101e2xd.html 这篇文章看了吗
+潘珉
+2014/8/21 21:48:26
+System.IO.StreamReader sr = new System.IO.StreamReader(_webBrowser1.DocumentStream, _e)
+
+RexFrame 2014/8/21 21:49:03
+恩
+
+RexFrame 2014/8/21 21:49:12
+我看看文章
+22:12:57
+潘珉
+2014/8/21 22:12:57
+可能需要使用Microsoft web brower，而不是自带的webbrower
+潘珉
+2014/8/21 22:14:56
+添加"Microsoft web浏览器"控件:工具->选择工具箱>COM组件 ->Microsoft Web Browser 选中，点“确定”
+22:15:36
+潘珉
+2014/8/21 22:15:36
+我以前用用过这个嵌套excel在客户端显示，有很多webbrower没有的功能
+22:22:34
+RexFrame 2014/8/21 22:22:34
+这个是什么webBrowser
+潘珉
+2014/8/21 22:23:22
+相当于你电脑中IE的核心组件
+潘珉
+2014/8/21 22:23:51
+这个就可以不考虑电脑中的IE版本问题了
+
+RexFrame 2014/8/21 22:24:26
+哦，那就是用这个webBrowser就只有一个版本了咯
+22:24:57
+潘珉
+2014/8/21 22:24:57
+其实是和webkit差不多的东西
+
+RexFrame 2014/8/21 22:25:48
+我先看看
+潘珉
+2014/8/21 22:25:56
+嗯

@@ -4,6 +4,7 @@ using System.Text;
 using System.Net;
 using mshtml;
 using System.Threading;
+using System.Windows.Forms;
 
 namespace webLibrary
 {
@@ -29,8 +30,9 @@ namespace webLibrary
             webBrowser.DocumentCompleted -= new System.Windows.Forms.WebBrowserDocumentCompletedEventHandler(s_DocumentCompleted);
             webBrowser.DocumentCompleted += new System.Windows.Forms.WebBrowserDocumentCompletedEventHandler(s_DocumentCompleted);
 
-            webBrowser.FileDownload -= new EventHandler(webBrowser_FileDownload);
             webBrowser.FileDownload += new EventHandler(webBrowser_FileDownload);
+
+            webBrowser.Navigating += new System.Windows.Forms.WebBrowserNavigatingEventHandler(webBrowser_Navigating);
 
             jsHelper.Core.jsThread = new System.Threading.Thread(new System.Threading.ThreadStart(jsHelper.jsHtml.init));
             
@@ -48,9 +50,32 @@ namespace webLibrary
 
         static void webBrowser_FileDownload(object sender, EventArgs e)
         {
-            
-            throw new NotImplementedException();
+            //throw new NotImplementedException();
         }
+
+        static void webBrowser_Navigating(object sender, System.Windows.Forms.WebBrowserNavigatingEventArgs e)
+        {
+            if (e.Url.Segments[e.Url.Segments.Length - 1].EndsWith(".zip"))
+            {
+                e.Cancel = true;
+                string filepath = null;
+
+                string FileName = e.Url.Segments[e.Url.Segments.Length - 1];
+
+                filepath = Application.StartupPath + FileName;
+                    WebClient client = new WebClient();
+                    client.DownloadFileCompleted += new System.ComponentModel.AsyncCompletedEventHandler(client_DownloadFileCompleted);
+                    client.DownloadFileAsync(e.Url, filepath);
+                
+            }
+        }
+
+        static void client_DownloadFileCompleted(object sender, System.ComponentModel.AsyncCompletedEventArgs e)
+        {
+            System.Windows.Forms.MessageBox.Show("File downloaded");
+        }
+
+        
 
         static void jsTimer_Tick(object sender, EventArgs e)
         {
